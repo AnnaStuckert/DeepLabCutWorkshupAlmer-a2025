@@ -23,10 +23,11 @@ DLC can be used in two ways:
 
 - **Colab Training (Recommended):**  
   - Open demo notebooks for single- or multi-animal tracking:  
-    - [Single mouse demo](https://colab.research.google.com/github/DeepLabCut/DeepLabCut/blob/master/examples/COLAB/COLAB_DEMO_mouse_openfield.ipynb)  
-    - [Three mice demo](https://colab.research.google.com/github/DeepLabCut/DeepLabCut/blob/master/examples/COLAB/COLAB_DEMO_3mice_openfield.ipynb)  
+    - Single animal tracking – please download the folder with data and script from [Wetransfer](https://we.tl/t-ynGT0lGW8I) or on [Github](https://github.com/AnnaStuckert/DeepLabCutWorkshupAlmer-a2025)
+    - Run the script DLC_training.ipynb for training a DLC project
+    - Run the script DEMO_Superanimals.ipynb for testing Superanimal models
   - Requires a Google account. Enable GPU for faster performance.  
-  - Save outputs locally before ending a session.  
+
 
 - **GUI for Labelling (Local Use):**  
   - Install DLC following the [Beginner’s Guide](https://deeplabcut.github.io/DeepLabCut/docs/beginner-guides/beginners-guide.html).  
@@ -37,8 +38,8 @@ DLC can be used in two ways:
 
 ## 📂 Resources & Downloads
 
-- 📦 Workshop materials on GitHub: [Insert GitHub Link Here]  
-- 📥 Download package via WeTransfer: [Insert WeTransfer Link Here]  
+- 📦 Workshop materials on GitHub: [Github](https://github.com/AnnaStuckert/DeepLabCutWorkshupAlmer-a2025)  
+- 📥 Download package via WeTransfer: [Wetransfer](https://we.tl/t-ynGT0lGW8I) active for 3 days
 
 ---
 
@@ -56,5 +57,18 @@ To set up your own DLC project:
 - [Beginner’s Guide to DLC](https://deeplabcut.github.io/DeepLabCut/docs/beginner-guides/beginners-guide.html)  
 - [DLC GUI Tutorial Video](https://www.youtube.com/watch?v=ofFx0vTMSxE)  
 - [Google Colab Demos](https://github.com/DeepLabCut/DeepLabCut/tree/master/examples/COLAB)  
+
+
+Documentation and forums
+- [Cajal DLC course book](https://alexemg.github.io/DLC-Cajal-Course/content/Day1_Overview.html)
+- [DLC Documentation](https://deeplabcut.github.io/DeepLabCut/README.html)
+- [DLC forum (get assistance)](https://forum.image.sc/tag/deeplabcut)
+- [DLC video tutorials](https://www.youtube.com/@deeplabcut7702)
+
+Papers
+- [Using DeepLabCut for 3D markerless pose estimation across species and behaviors](https://www.nature.com/articles/s41596-019-0176-0)
+- [Multi-animal pose estimation](https://www.nature.com/articles/s41592-022-01443-0)
+- [SuperAnimal pretrained pose estimation models](https://www.nature.com/articles/s41467-024-48792-2)
+- [Keypoint-MoSeq](https://www.nature.com/articles/s41592-024-02318-2)
 
 ---
