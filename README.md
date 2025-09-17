@@ -1,3 +1,8 @@
+
+LINK TO PDF OF WORKBOOK
+https://we.tl/t-Cly5RfZOiu
+
+
 # DeepLabCut (DLC) Workshop
 
 This repository provides a short practical introduction to **DeepLabCut (DLC)** — a deep learning toolbox for **markerless pose estimation**. DLC enables researchers to track animal and human movement from videos by extracting **x,y coordinates of defined keypoints** (e.g., nose, tail, paws).
@@ -23,7 +28,7 @@ DLC can be used in two ways:
 
 - **Colab Training (Recommended):**  
   - Open demo notebooks for single- or multi-animal tracking:  
-    - Single animal tracking – please download the folder with data and script from [Wetransfer](https://we.tl/t-ynGT0lGW8I) or on [Github](https://github.com/AnnaStuckert/DeepLabCutWorkshupAlmer-a2025)
+    - Single animal tracking – please download the folder with data and script from [Wetransfer](https://we.tl/t-wTCBfrtxx2) or on [Github](https://github.com/AnnaStuckert/DeepLabCutWorkshupAlmer-a2025)
     - Run the script DLC_training.ipynb for training a DLC project
     - Run the script DEMO_Superanimals.ipynb for testing Superanimal models
   - Requires a Google account. Enable GPU for faster performance.  
