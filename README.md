@@ -1,3 +1,8 @@
+
+LINK TO PDF OF WORKBOOK
+https://we.tl/t-Cly5RfZOiu
+
+
 # DeepLabCut (DLC) Workshop
 
 This repository provides a short practical introduction to **DeepLabCut (DLC)** — a deep learning toolbox for **markerless pose estimation**. DLC enables researchers to track animal and human movement from videos by extracting **x,y coordinates of defined keypoints** (e.g., nose, tail, paws).
